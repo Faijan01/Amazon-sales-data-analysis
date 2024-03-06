@@ -1,0 +1,2 @@
+•	Collected sales data from Amazon, including information on product details, sales volume, customer reviews, pricing, and discounts. 
+•	Conducted exploratory data analysis (EDA) in Excel to understand the sales data. Utilizing Excel's functions and pivot tables, we visualize these KPIs to identify top-selling items, understand sales patterns, evaluate the performance of different products, and Total sales by state and city.
